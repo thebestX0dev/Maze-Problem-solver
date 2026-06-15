@@ -1,0 +1,31 @@
+# Build artifacts
+*.o
+*.a
+*.so
+*.out
+maze
+maze_basic
+maze_optimized
+maze_advanced
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Executables
+*.exe
+*.dll
+
+# Temporary files
+*.tmp
+*.log
+
+# CMake
+CMakeFiles/
+cmake_build_debug/
+cmake_build_release/
+CMakeCache.txt
